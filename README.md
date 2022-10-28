@@ -8,6 +8,6 @@ apt update
 apt upgrade
 pkg install python
 pkg install git
-git clone 
+git clone https://github.com/kwel999/Gc_invite-_Super_fast
 python main.py
 ```
